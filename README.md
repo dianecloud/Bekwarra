@@ -2,12 +2,12 @@
     "library": {
         "books": [
             {
-                "title": "The Art of Thinking",
+                "Bekwarra": "is a project focused on All kind of production & servese The Art of Thinking",
                 "author": "Diane Cloud",
                 "year": 2025
             },
-            {
-                "title": "Code and Creativity",
+            {cd Bekwarra
+                "Bekwarra": "Code and Creativity",
                 "author": "Cloud Ugba",
                 "year": 1982
             }
